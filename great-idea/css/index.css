@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5 {
 /* Start nav bar code */
 #container{
 	margin: 0 auto;
-	width: 80%;
+	width: 800px;
 }
 #navbar {
 	height: 80px;
